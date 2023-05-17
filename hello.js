@@ -19,4 +19,4 @@ var firstName = "Gajanan";
   console.log(holder); 
 
   holder = "Sachin Spec"; // Variable update 
-  console.log(holder); //
+  console.log(holder); //  
