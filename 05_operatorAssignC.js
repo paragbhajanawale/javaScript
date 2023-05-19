@@ -1,5 +1,7 @@
 var info= function (gradScore,hscScore,sscScore,candidateName){
-var result=gradScore>=70 ||hscScore>=80 || sscScore>90 ?`Congrates  " ${candidateName} "   You are eligible for TCS interview`:`Unfortunetely  " ${candidateName} " You are not eligible for interview`;
+var result=gradScore>=70 ||hscScore>=80 || sscScore>90 ?`Congrates  " 
+${candidateName} "   You are eligible for TCS interview`:`Unfortunetely  " 
+${candidateName} " You are not eligible for interview`;
 console.log(result);
 }
 
