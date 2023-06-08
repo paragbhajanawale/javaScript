@@ -63,3 +63,7 @@ console.log(typeof isMarriedd);
 var firstName="bill";
 console.log("first name :",firstName,"type",typeof firstName);
 
+
+
+
+[]
